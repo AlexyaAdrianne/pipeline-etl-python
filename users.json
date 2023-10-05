@@ -1,0 +1,147 @@
+[
+  {
+    "id": 23,
+    "name": "Alexya",
+    "account": {
+      "id": 3160,
+      "number": "9749654-9",
+      "agency": "8152192",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2890,
+      "number": "1755 9874 5425 7852",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Alexya! Maria Livia fez 7 meses!"
+      },
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Alexya! Maria Livia fez 7 meses!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alexandre",
+    "account": {
+      "id": 3161,
+      "number": "9749654-7",
+      "agency": "8152662",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2891,
+      "number": "1755 9423 5425 7852",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Alexandre! Maria Livia fez 7 meses!"
+      },
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Alexandre! Maria Livia fez 7 meses!"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Celinha",
+    "account": {
+      "id": 3162,
+      "number": "00034-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 3,
+      "number": "1234 1234 1234 9624",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Celinha! Maria Livia fez 7 meses!"
+      },
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Celinha! Maria Livia fez 7 meses!"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Orestinho",
+    "account": {
+      "id": 3163,
+      "number": "00034-8",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2893,
+      "number": "1234 1234 1234 2465",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Orestinho! Maria Livia fez 7 meses!"
+      },
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Orestinho! Maria Livia fez 7 meses!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Layzanha",
+    "account": {
+      "id": 3163,
+      "number": "00034-8",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2893,
+      "number": "1234 1234 1234 2465",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Layzanha! Maria Livia fez 7 meses!"
+      },
+      {
+        "id": 280,
+        "icon": "novaintegrante_maria_livia.png",
+        "description": "Olha so Layzanha! Maria Livia fez 7 meses!"
+      }
+    ]
+  }
+]
